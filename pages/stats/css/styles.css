@@ -1,0 +1,188 @@
+.btn_stat{
+    margin-right: 10px !important;
+}
+.title{
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    margin: 10px;
+}
+.container-cards{
+    text-align: center;
+}
+.card-2 {
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+}
+.card {
+    background: rgb(230, 227, 227);
+    border-radius: 2px;
+    display: inline-block;
+    height: 345px;
+    margin: 1rem;
+    position: relative;
+    width: 250px;
+    border-radius: 10px;
+    overflow: hidden;
+}
+.line{
+    height: 21px;
+    font-size: 15px;
+}
+.month{
+    float: left;
+    font-size: 15px;
+    font-weight: bold;
+    margin: 0 10px;
+}
+.money{
+    float: right;
+    color: #1500d3;
+    font-size: 15px;
+    font-weight: bold;
+    margin: 0 10px;
+}
+.auto{
+    background: linear-gradient(rgba(255,255,255,.5), rgba(255,255,255,.5)),url('../img/coche.jpg');
+    background-size: cover;
+}
+.sep{
+    width: 100%;
+    background-color: black;
+    height: 1.5px;
+}
+.alimentacion{
+    background: linear-gradient(rgba(255,255,255,.5), rgba(255,255,255,.5)),url('../img/alimentacion.jpg');
+    background-size: cover;
+}
+.right{
+    float: right;
+}
+.money-total{
+    color: blueviolet;
+}
+.servicios{
+    background: linear-gradient(rgba(255,255,255,.5), rgba(255,255,255,.5)),url('../img/servicios.png');
+    background-size: cover;
+    background-position: cover;
+    background-repeat: no-repeat;
+    background-attachment: local;
+}
+.seguros{
+    background: linear-gradient(rgba(255,255,255,.5), rgba(255,255,255,.5)),url('../img/seguros.png');
+    background-size: cover;
+    background-position: cover;
+    background-repeat: no-repeat;
+    background-attachment: local;
+}
+.comunidad{
+    background: linear-gradient(rgba(255,255,255,.5), rgba(255,255,255,.5)),url('../img/comunidad.jpg');
+    background-size: cover;
+    background-position: cover;
+    background-repeat: no-repeat;
+    background-attachment: local;
+}
+.restaurantes{
+    background: linear-gradient(rgba(255,255,255,.5), rgba(255,255,255,.5)),url('../img/restaurante.jpg');
+    background-size: cover;
+    background-position: cover;
+    background-repeat: no-repeat;
+    background-attachment: local;
+}
+.salud{
+    background: linear-gradient(rgba(255,255,255,.5), rgba(255,255,255,.5)),url('../img/salud.jpg');
+    background-size: cover;
+    background-position: cover;
+    background-repeat: no-repeat;
+    background-attachment: local;
+}
+.caprichos{
+    background: linear-gradient(rgba(255,255,255,.5), rgba(255,255,255,.5)),url('../img/caprichos.jpg');
+    background-size: cover;
+    background-position: cover;
+    background-repeat: no-repeat;
+    background-attachment: local;
+}
+.viajes{
+    background: linear-gradient(rgba(255,255,255,.5), rgba(255,255,255,.5)),url('../img/viajes.png');
+    background-size: cover;
+    background-position: cover;
+    background-repeat: no-repeat;
+    background-attachment: local;
+}
+.hogar{
+    background: linear-gradient(rgba(255,255,255,.5), rgba(255,255,255,.5)),url('../img/hogar.jpg');
+    background-size: cover;
+    background-position: cover;
+    background-repeat: no-repeat;
+    background-attachment: local;
+}
+.ropa{
+    background: linear-gradient(rgba(255,255,255,.5), rgba(255,255,255,.5)),url('../img/ropa.jpg');
+    background-size: cover;
+    background-position: cover;
+    background-repeat: no-repeat;
+    background-attachment: local;
+}
+.peluqueria{
+    background: linear-gradient(rgba(255,255,255,.5), rgba(255,255,255,.5)),url('../img/peluqueria.jpg');
+    background-size: cover;
+    background-position: cover;
+    background-repeat: no-repeat;
+    background-attachment: local;
+}
+.casica{
+    background: linear-gradient(rgba(255,255,255,.5), rgba(255,255,255,.5)),url('../img/casica.jpg');
+    background-size: cover;
+    background-position: cover;
+    background-repeat: no-repeat;
+    background-attachment: local;
+}
+.impuestos{
+    background: linear-gradient(rgba(255,255,255,.5), rgba(255,255,255,.5)),url('../img/impuestos.jpg');
+    background-size: cover;
+    background-position: cover;
+    background-repeat: no-repeat;
+    background-attachment: local;
+}
+.container-stats{
+    height: auto;
+    /*background-color: grey;*/
+    padding: 5px;
+    text-align: center;
+    overflow: hidden;
+    margin: 25px;
+}
+.container-stat{
+    text-align: center;
+    overflow: hidden;
+    width: auto;
+    font-size: 15px;
+    display: inline-block;
+    margin: 10px;
+    border-color: rgb(62, 57, 133);
+    border-width: 1px;
+    border-style: solid;
+    padding: 5px;
+    min-width: 175px;
+}
+.title-stats{
+    text-align: center;
+    font-size: 15px;
+    font-weight: bold;
+}
+.desc-stat{
+    height: auto;
+    min-height: 50px;
+
+}
+.title-product-stat{
+    float: left;
+    width: 70%;
+    text-align: left;
+}
+.product-cost{
+    float: right;
+    width: 20%;
+    text-align: left;
+    margin-right: 30px;
+}

@@ -1,0 +1,21 @@
+.success, .error {
+    color: white;
+    padding: 5px;
+    margin: 5px 0 15px 0;
+}
+
+.success {
+    background: green;
+}
+
+.error {
+    background: red;
+}
+.product-list{
+    overflow-y: scroll;
+    height: 500px !important;
+    width: auto !important;
+}
+.btn_stat{
+    margin-right: 10px !important;
+}
